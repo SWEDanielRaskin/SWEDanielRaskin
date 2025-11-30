@@ -5,12 +5,11 @@ I'm a sophomore Software Engineering student at University of Michigan-Dearborn 
 
 ## 🚀 What I'm Up To
 
-- 🤖 Building AI voice receptionist platforms with OpenAI Realtime API
-- 💼 Developing custom e-commerce solutions with AI-powered customer support
-- 📱 Scaling SMS platforms to handle 2,000+ messages per second
+- 🤖 Building an AI voice receptionist platform with OpenAI Realtime API
+- 💼 Helping businesses take on AI and custom software solutions
 - 🎯 Preparing for Summer 2026 Software Engineering internships
 
-Check out my [portfolio & case studies!](https://deltarsystems.com/about)
+Check out my [portfolio & case studies](https://deltarsystems.com/about)!
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielraskin8/)
